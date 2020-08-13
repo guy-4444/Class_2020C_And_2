@@ -33,4 +33,8 @@ dependencies {
     debugImplementation 'com.amitshekhar.android:debug-db:1.0.6'
     debugImplementation 'com.amitshekhar.android:debug-db-encrypt:1.0.6'
 
+
+    // Json parsing library
+    implementation 'com.google.code.gson:gson:2.8.6'
+
 }

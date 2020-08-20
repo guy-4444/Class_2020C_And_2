@@ -12,6 +12,7 @@ public class MySPV2 {
         public static final String USER_DATA = "USER_DATA";
         public static final String USER_LAST_LOGIN_TIME_STAMP = "USER_LAST_LOGIN_TIME_STAMP";
         public static final String USER_MAIL = "USER_MAIL";
+        public static final String MOVIE_NAME = "MOVIE_NAME";
     }
 
 

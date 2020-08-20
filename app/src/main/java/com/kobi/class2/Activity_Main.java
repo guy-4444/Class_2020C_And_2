@@ -21,6 +21,7 @@ public class Activity_Main extends AppCompatActivity {
     private MySPV2 mySPV2;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
